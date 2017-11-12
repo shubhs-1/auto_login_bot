@@ -1,0 +1,8 @@
+gmail_user = 'gmail_username'
+gmail_pass = 'password'
+link_user = 'linkedin_username'
+link_pass = 'password'
+git_user = 'github_username'
+git_pass = 'password'
+face_user = 'fb_username'
+face_pass = 'password'
